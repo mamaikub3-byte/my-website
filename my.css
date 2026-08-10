@@ -1,0 +1,35 @@
+@import url('https://fonts.google.com/specimen/Chango?preview.script=Latn');
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family:"Poppins",sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    main-height: 100vh;
+    background: url(https://i.pinimg.com/736x/2e/95/39/2e95395377f36f83ac91575ba60afc48.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.wrapper{
+    width: 420px;
+    background-color: transparent;
+    border: 2px solid rgba(red, green, blue, alpha);
+    backdrop-filter: blur(15px);
+    box-shadow: 0 0  10px rgba(0, 0, 0, 2);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 30px 0;
+}
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}.wrapper .input-box{
+    width: 200%;
+    height: 40px;
+    position: relative;
+    margin: 30px 0;
+}
