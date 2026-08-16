@@ -1,0 +1,27 @@
+h1{
+    font-family: "Angsana New", serif;
+    font-size: xx-large ;
+    color: rgb(6, 150, 23);
+}
+p{
+
+    font-family: "Angsana New", serif;
+    font-weight: bold;
+    font-weight:600;
+    font-size: x-large;
+
+}
+ul{
+    font-family: "Angsana New", serif;
+    font-size: x-large;
+    font-weight: bold;
+    color:black;
+}
+h2{
+    font-family: "Angsana New", serif;
+    font-size: xx-large ;
+    color: rgb(241, 24, 176);
+}
+.center-box{
+    text-align: center;
+}
